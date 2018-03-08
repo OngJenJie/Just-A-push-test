@@ -10,7 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("I want to sleeppppppppppppp");
+
+            Console.WriteLine("please guess max heigh");            
             Console.Read();
         }
     }
